@@ -37,7 +37,7 @@ for x in range(1,1400):
         
 df=pd.DataFrame(info)        
 
-df.to_csv("file1.csv", header=['price','title','no_of_bedrooms','no_of_bathrooms','sqft'], index=False)
+df.to_csv("data.csv", header=['price','title','no_of_bedrooms','no_of_bathrooms','sqft'], index=False)
 
     
         
