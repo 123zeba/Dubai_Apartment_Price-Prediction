@@ -1,4 +1,4 @@
-# HOUSE PRICE PREDICTION - DUBAI
+# APARTMENT PRICE PREDICTION - DUBAI
 
 
 Real Estate is one of the important sectors that have a great influence on the national economy. 
@@ -19,3 +19,5 @@ It has information about the number of bedrooms, bathrooms, location, building n
 5. Train-test split 
 6. Training regression model
 7. Evaluation
+
+# DATA ANALYSIS
