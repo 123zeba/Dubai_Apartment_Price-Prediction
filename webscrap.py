@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 15 11:47:17 2022
 
-@author: Rishab
-"""
 
 
 from bs4 import BeautifulSoup
@@ -13,7 +8,7 @@ import pandas as pd
 
 info=[]
 for x in range(1,1400):
-    url="https://www.bayut.com/to-rent/apartments/dubai/page-"
+    url="https://www.abcd.com/to-rent/apartments/dubai/page-"
     p=requests.get(url+str(x))
 
     #print(page)
@@ -42,7 +37,7 @@ for x in range(1,1400):
         
 df=pd.DataFrame(info)        
 
-df.to_csv("bayut1.csv", header=['price','title','no_of_bedrooms','no_of_bathrooms','sqft'], index=False)
+df.to_csv("file1.csv", header=['price','title','no_of_bedrooms','no_of_bathrooms','sqft'], index=False)
 
     
         
