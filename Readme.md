@@ -33,5 +33,5 @@ While training our model it gives better prediction at predicting the apartments
 Here apartments with high prices are outliers so we remove them. 
 
 # DATA PREPROCESSING
-converting categorical feature(title) into numerical feature.
+Converting categorical feature(title) into numerical feature.
 
