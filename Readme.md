@@ -48,7 +48,9 @@ R-squared is a statistical measure of how close the data are to the fitted regre
 Higher the R-Squared the better the model fits our data.
 
 Prediction Results
+
 R Squared for
+
 1.	Multiple Linear Regression:	 0.8809
 2.	Random Forest Regression  :	 0.8778
 3.	Decision Tree Regression  :	 0.8486
