@@ -4,7 +4,7 @@
 Real Estate is one of the important sectors that have a great influence on the national economy. 
 Rental prices and their changes have a great impact on residential investment and economic growth. 
 Therefore house price prediction is an important topic for real estate. 
-The price of a house depends on many factors like location, square feet area, number of bedrooms, bathrooms, etc.
+The price of a house depends on many factors like location, square feet area, number of bedrooms etc.
 
 This project aims to predict the rent of apartments in Dubai. 
 The data that has been used is web scrapped from one of the famous real estate search engines in Dubai.
@@ -43,6 +43,8 @@ Models used for predictions are:
 2. Decision tree regression
 3. Random forest regression
 4. XGBoost regression
+
+
 Models' performance has been evaluated using Adjusted R-squared
 R-squared is a statistical measure of how close the data are to the fitted regression line.
 Higher the R-Squared the better the model fits our data.
