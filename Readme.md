@@ -35,3 +35,20 @@ Here apartments with high prices are outliers so we remove them.
 # DATA PREPROCESSING
 Converting categorical feature(title) into numerical feature.
 
+# REGRESSION MODELS AND EVALUATION
+
+Models used for predictions are:
+
+1. Multiple linear regression
+2. Decision tree regression
+3. Random forest regression
+4. XGBoost regression
+Models' performance has been evaluated using Adjusted R-squared
+R-squared is a statistical measure of how close the data are to the fitted regression line.
+Higher the R-Squared the better the model fits our data.
+
+Prediction Results
+1.	Multiple Linear Regression	0.8809
+2.	Random Forest Regression	0.8778
+3.	Decision Tree Regression	0.8486
+4.	XGBoost regression	0.9075
