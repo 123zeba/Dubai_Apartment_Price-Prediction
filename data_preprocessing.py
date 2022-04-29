@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 21 14:22:45 2022
 
-@author: Rishab
-"""
 
 # Importing the libraries
 import numpy as np
