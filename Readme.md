@@ -29,8 +29,8 @@ The data set consists of 30613 records of which 9874 are duplicate properties th
 
 
 The figure shows the distribution of price in our data set. Price ranges from 8400 to 1875000 and It could be seen that price distribution is positively skewed. Skewness is 5.002124, which means the number of apartments with low prices is more. 
-While training our model it gives better prediction at predicting the apartments with low prices. 
-Here apartments with high prices are outliers so we remove them. 
+While training our model it gives better prediction at predicting the apartments with low prices (up t0 220000 AED). 
+Here apartments with high prices are outliers so we remove them (above 220000 AED). 
 
 # DATA PREPROCESSING
 Converting categorical feature(title) into numerical feature.
