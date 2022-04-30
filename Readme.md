@@ -45,7 +45,7 @@ Models used for predictions are:
 4. XGBoost regression
 
 
-Models' performance has been evaluated using Adjusted R-squared
+Models' performance has been evaluated using Adjusted R-squared.
 R-squared is a statistical measure of how close the data are to the fitted regression line.
 Higher the R-Squared the better the model fits our data.
 
